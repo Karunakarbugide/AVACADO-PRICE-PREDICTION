@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "Avocado Prices Prediction.ipynb": {
+      "slug": "910788fed22b46e99d4c24ea8cec8c1b"
+    }
+  }
 }
